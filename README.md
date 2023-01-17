@@ -1,1 +1,1 @@
-# rock_paper_scissors
+You can play an adult and serious game.
